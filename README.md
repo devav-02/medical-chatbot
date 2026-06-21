@@ -15,7 +15,7 @@ The system processes the input and generates contextual responses that may inclu
 - Risk level estimation (Low / Medium / High)
 - Basic precautionary suggestions
 
-⚠️ Note: This system is designed for educational and research purposes only and does not replace professional medical advice.
+
 
 ---
 
